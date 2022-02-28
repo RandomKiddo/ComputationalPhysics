@@ -8,9 +8,10 @@ ___
 
 - [Section 1.a - Graphing Basics](https://github.com/RandomKiddo/ComputationalPhysics/blob/master/src/graphing/GraphingBasics.ipynb)
 - [Section 1.b - Scatter Plots](https://github.com/RandomKiddo/ComputationalPhysics/blob/master/src/graphing/ScatterPlots.ipynb)
+- [Section 1.c - Density Plots](https://github.com/RandomKiddo/ComputationalPhysics/blob/master/src/graphing/DensityPlots.ipynb)
 
 ___
 
 [Back to Top](#section-1x---all-about-graphs)
 
-<sub>This page was last edited on 02.27.2022</sub>
+<sub>This page was last edited on 02.28.2022</sub>
