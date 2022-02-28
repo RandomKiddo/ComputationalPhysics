@@ -9,7 +9,14 @@ ___
 
 ### Table of Contents
 
-1. [License Details](#license-details)
+1. [Sections](#sections)
+2. [License Details](#license-details)
+
+___
+
+### Sections
+
+- [Section 1.x - Graphing](https://github.com/RandomKiddo/ComputationalPhysics/tree/master/src/graphing)
 
 ___
 

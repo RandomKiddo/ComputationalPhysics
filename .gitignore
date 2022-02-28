@@ -1,2 +1,5 @@
 # VSCode
 *.code-workspace
+
+# Summary Files
+CPSummary.txt
