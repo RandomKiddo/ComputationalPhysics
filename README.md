@@ -16,7 +16,7 @@ ___
 
 ### Sections
 
-- [Section 1.x - Graphing](https://github.com/RandomKiddo/ComputationalPhysics/tree/master/src/graphing)
+- [Section 1.x - Graphing](https://github.com/RandomKiddo/ComputationalPhysics/blob/master/src/graphing/SectionContents.md)
 
 ___
 
@@ -30,4 +30,4 @@ ___
 
 [Back to Top](#computational-physics)
 
-<sub>This page was last edited on 02.27.2022</sub>
+<sub>This page was last edited on 02.28.2022</sub>
