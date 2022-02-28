@@ -1,5 +1,6 @@
 # VSCode
 *.code-workspace
 
-# Summary Files
+# Text Files
 CPSummary.txt
+DensityPlotFile.txt
