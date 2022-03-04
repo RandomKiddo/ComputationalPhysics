@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/RandomKiddo/ComputationalPhysics)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 ![CommitActivity](https://img.shields.io/github/commit-activity/w/RandomKiddo/ComputationalPhysics)
+[![Issues](https://img.shields.io/github/issues-raw/RandomKiddo/ComputationalPhysics)](https://github.com/RandomKiddo/ComputationalPhysics/issues)
 
 The `ComputationalPhysics` reposity is a free-use learning reposity licensed under the GNU LGPLv3 License. It attempts to teach people how to use the Python programming language to solve physics problems and aid with physics mathematics. Jupyter Notebooks are utilized to teach.
 
@@ -30,4 +31,4 @@ ___
 
 [Back to Top](#computational-physics)
 
-<sub>This page was last edited on 02.28.2022</sub>
+<sub>This page was last edited on 03.03.2022</sub>
